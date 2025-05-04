@@ -6,8 +6,8 @@
 #include <ArduinoOTA.h>
 
 #ifndef STASSID
-#define STASSID "MartinRouterKing"
-#define STAPSK  "Sesamsemmel2$"
+#define STASSID "SSID"
+#define STAPSK  "PASSWORD"
 #endif
 
 const char* SSID = STASSID;
